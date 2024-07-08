@@ -1,0 +1,26 @@
+[11-Jun-2024 20:52:46 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type int in /home1/alttec56/zezinho.alttechnology.com.br/importarcontatos.php on line 28
+[11-Jun-2024 20:52:46 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type int in /home1/alttec56/zezinho.alttechnology.com.br/importarcontatos.php on line 48
+[11-Jun-2024 20:52:46 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home1/alttec56/zezinho.alttechnology.com.br/importarcontatos.php:48
+Stack trace:
+#0 {main}
+  thrown in /home1/alttec56/zezinho.alttechnology.com.br/importarcontatos.php on line 48
+[11-Jun-2024 20:53:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type int in /home1/alttec56/zezinho.alttechnology.com.br/importarcontatos.php on line 28
+[11-Jun-2024 20:53:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type int in /home1/alttec56/zezinho.alttechnology.com.br/importarcontatos.php on line 48
+[11-Jun-2024 20:53:02 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home1/alttec56/zezinho.alttechnology.com.br/importarcontatos.php:48
+Stack trace:
+#0 {main}
+  thrown in /home1/alttec56/zezinho.alttechnology.com.br/importarcontatos.php on line 48
+[19-Jun-2024 18:16:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected double-quote mark, expecting "-" or identifier or variable or number in /home1/alttec56/envioemmassa.alttechnology.com.br/send_message.php on line 19
+[19-Jun-2024 18:25:49 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/alttec56/envioemmassa.alttechnology.com.br/index.php on line 160
+[19-Jun-2024 18:30:14 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/alttec56/envioemmassa.alttechnology.com.br/index.php on line 165
+[03-Jul-2024 03:57:43 America/Fortaleza] PHP Warning:  Undefined variable $listName in /home1/alttec56/envioemmassa.alttechnology.com.br/edit_list.php on line 70
+[03-Jul-2024 03:57:43 America/Fortaleza] PHP Warning:  Undefined variable $numbers in /home1/alttec56/envioemmassa.alttechnology.com.br/edit_list.php on line 73
+[03-Jul-2024 03:57:51 America/Fortaleza] PHP Warning:  Undefined variable $listName in /home1/alttec56/envioemmassa.alttechnology.com.br/edit_list.php on line 70
+[03-Jul-2024 03:57:51 America/Fortaleza] PHP Warning:  Undefined variable $numbers in /home1/alttec56/envioemmassa.alttechnology.com.br/edit_list.php on line 73
+[03-Jul-2024 03:57:56 America/Fortaleza] PHP Warning:  Undefined variable $listName in /home1/alttec56/envioemmassa.alttechnology.com.br/edit_list.php on line 70
+[03-Jul-2024 03:57:56 America/Fortaleza] PHP Warning:  Undefined variable $numbers in /home1/alttec56/envioemmassa.alttechnology.com.br/edit_list.php on line 73
+[03-Jul-2024 03:58:15 America/Fortaleza] PHP Warning:  Undefined variable $listName in /home1/alttec56/envioemmassa.alttechnology.com.br/edit_list.php on line 70
+[03-Jul-2024 03:58:15 America/Fortaleza] PHP Warning:  Undefined variable $numbers in /home1/alttec56/envioemmassa.alttechnology.com.br/edit_list.php on line 73
+[03-Jul-2024 04:02:13 America/Fortaleza] PHP Warning:  Undefined variable $listName in /home1/alttec56/envioemmassa.alttechnology.com.br/edit_list.php on line 69
+[03-Jul-2024 04:02:13 America/Fortaleza] PHP Warning:  Undefined variable $contacts in /home1/alttec56/envioemmassa.alttechnology.com.br/edit_list.php on line 72
+[03-Jul-2024 13:16:42 America/Fortaleza] PHP Warning:  Undefined variable $confirmationNumber in /home1/alttec56/envioemmassa.alttechnology.com.br/send_message.php on line 118
